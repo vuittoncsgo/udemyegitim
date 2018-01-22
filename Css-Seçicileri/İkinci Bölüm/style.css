@@ -1,0 +1,23 @@
+.link{
+    background: blue;
+}
+.link:hover{
+    background: yellow;
+}
+.link:focus{
+    background: red;
+}
+.link:active{
+    background: green;
+}
+.link:visited{
+    background: purple;
+}
+
+ul li:first-child{
+    background: red;
+}
+
+.ikinci li:nth-child(odd){
+    background: yellow;
+}

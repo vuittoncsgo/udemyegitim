@@ -1,0 +1,27 @@
+body{
+    background-color: blueviolet;
+}
+
+/* 
+Tüm elementleri seçmek 
+
+*{
+    background-color: red;
+} 
+
+*/
+
+#yeni{
+    color: aqua;
+}
+
+.baslik{
+    color: blue;
+}
+
+.benimalanim1,.benimalanim2{
+    background-color: brown;
+}
+.benimalanim2{
+    color: coral;
+}
